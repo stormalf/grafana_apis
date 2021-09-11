@@ -1,0 +1,11 @@
+{
+  "name": "test_datasource4",
+  "type": "mysql",
+  "url": "http://localhost:3306",
+  "user": "root",
+  "password": "",
+  "database": "sys",
+  "access": "proxy",
+  "basicAuth": false,
+  "isDefault": true
+}
