@@ -2,7 +2,7 @@
 
 grafana apis example in python
 
-## grafanaapi.py
+## pygrafanaapi.py
 
 It's a python module that you can include in your python module example with test.py
 
@@ -96,6 +96,5 @@ some grafana apis usage with results example:
 
 Forecast :
 
-- create a python package for grafanaapi.py and put it on pypi
 - add other grafana apis function example for datasource you can retrieve by id, by uid or by name...
 - testing!
