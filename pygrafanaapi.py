@@ -8,7 +8,7 @@ from json import loads as jsonload
 
 
 '''
-grafanaapi.py is to be used by other python modules to automate grafana dashboards creation
+pygrafanaapi.py is to be used by other python modules to automate grafana dashboards creation
 by using some GrafanaApi functions like createApiKey...
 
 '''
